@@ -17,7 +17,7 @@
 ---
 >*Note*:
 >If you wish to copy and paste example commands do open up our full user guide
-in a browser using the URL above, this HelpGuide is for viewing only.
+in a browser using the URL above, this document is for viewing only.
 
 Refer below for more details about command formats.
 
